@@ -14,5 +14,10 @@ WEEK 2, WEEK 3, WEEK 4, WEEK 5 yet to come!
 
 ## NOTE: 
 
-It may take some time to update your results on coursera page (10 min. approx) 
+1. It may take some time to update your results on coursera page (10 min. approx) 
+2. The question for assisment may chnage overtime - These were the qustions and answer at my time.
+3. Use only for reference purpose. [Don't copy paste the answers directly]
+4. Understanding the concept is more importment rather then getting the answer.
+
+Happy Learning
 
